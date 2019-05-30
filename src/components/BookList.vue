@@ -9,7 +9,7 @@
 
 
 <script>
-  import BookItem from './BookItem'
+  import BookItem from './BookItem';
 
   export default {
     name: 'BookList',
